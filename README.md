@@ -1,28 +1,27 @@
-# 👋 ¡Hola! Soy Jona
+<h1 align="center">Hi! I'm Jona 🧑‍💻</h1>
+<p align="center">I'm passionate about full-stack web development with experiences on Ruby on Rails and React, though I also enjoy music, reading, sports, and dreaming big.
+</p>
 
-Soy un desarrollador web full-stack con experiencia en **Ruby on Rails** y **React**. Me gusta crear productos, escribir código limpio y lanzar ideas propias como **ExtendBlue**.
+<br />
+<br />
+<br />
 
----
-
-## 🧪 DemoLab — MVPs y experimentos
-
-> Algunos proyectos personales o ideas en construcción.
-
-- 🔹 [`extendblue`](https://github.com/Jonattb/extendblue): plataforma personal para [breve descripción].
-- 🔹 [`demo-ai-tool`](https://github.com/Jonattb/demo-ai-tool): herramienta de prueba usando IA.
-- 🔹 [`rails-edu`](https://github.com/Jonattb/rails-edu): plantilla base educativa con Rails + Turbo.
+<p align="center">
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white" />
+</p>
 
 ---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonattb&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-## 🎯 Objetivo
-
-Crear productos rentables como **ExtendBlue** y alcanzar mi primer **millón de dólares**.
 
 ---
 
