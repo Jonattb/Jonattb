@@ -28,3 +28,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonattb&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
+
+---
+
+<p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonattb&show_icons=true&theme=transparent)
+</p>
