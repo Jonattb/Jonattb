@@ -32,5 +32,5 @@
 ---
 
 <p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonattb&show_icons=true&theme=transparent)
+    <img src="https://github-readme-stats.vercel.app/api?username=Jonattb&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Github Stats" />
 </p>
